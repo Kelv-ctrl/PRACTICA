@@ -96,7 +96,7 @@ renderTasks();
 /* NUEVA FUNCIÓN COMENTADA        */
 /* ------------------------------ */
 
-/*
+
 
 // 1) Obtener referencia al botón
 const clearCompletedBtn = document.getElementById("clearCompletedBtn");
@@ -125,5 +125,5 @@ function clearCompletedTasks() {
 // 3) Activar evento para el botón
 clearCompletedBtn.addEventListener("click", clearCompletedTasks);
 
-*/
+
 
